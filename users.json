@@ -1,19 +1,7 @@
 [
     {
-        "name": "tim",
-        "email": "tim@gmail.com",
-        "school": "UBC",
-        "joined sessions": []
-    },
-    {
         "name": "bob",
         "email": "bob@gmail.com",
-        "school": "UBC",
-        "joined sessions": []
-    },
-    {
-        "name": "emily",
-        "email": "cat@gmail.com",
         "school": "UBC",
         "joined sessions": [
             {
@@ -24,9 +12,15 @@
                 "time end": "20:00",
                 "description": "reviewing for midterm",
                 "members": [
-                    "emily"
+                    "bob"
                 ]
             }
         ]
+    },
+    {
+        "name": "Emily Lee",
+        "email": "newemail@gmail.com",
+        "school": "UBC",
+        "joined sessions": []
     }
 ]

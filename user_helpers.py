@@ -23,8 +23,6 @@ def read_user(email):
                 name = u['name']
                 print(f'{name} has successfully logged in!')
                 return u
-            else:
-                print('user not found')
 
 
 def update_user(user, name, email, school, session):
