@@ -1,0 +1,11 @@
+[
+    {
+        "title": "midterm prep",
+        "course": "CPSC 110",
+        "date": "09/25/2022",
+        "time start": "09:00",
+        "time end": "10:00",
+        "description": "Preparation for comp sci midterm",
+        "members": ["Bob"]
+    }
+]

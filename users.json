@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Bob",
+        "email": "bob@gmail.com",
+        "school": "UBC",
+        "joined sessions": ["CPSC 110 midterm prep"]
+    }
+]
