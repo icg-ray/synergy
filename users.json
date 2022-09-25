@@ -1,8 +1,32 @@
 [
     {
-        "name": "Bob",
+        "name": "tim",
+        "email": "tim@gmail.com",
+        "school": "UBC",
+        "joined sessions": []
+    },
+    {
+        "name": "bob",
         "email": "bob@gmail.com",
         "school": "UBC",
-        "joined sessions": ["CPSC 110 midterm prep"]
+        "joined sessions": []
+    },
+    {
+        "name": "emily",
+        "email": "cat@gmail.com",
+        "school": "UBC",
+        "joined sessions": [
+            {
+                "title": "Midterm Prep",
+                "course": "CPSC 110",
+                "date": "09/25/2022",
+                "time start": "18:00",
+                "time end": "20:00",
+                "description": "reviewing for midterm",
+                "members": [
+                    "emily"
+                ]
+            }
+        ]
     }
 ]
